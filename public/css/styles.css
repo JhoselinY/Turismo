@@ -1,0 +1,10 @@
+/* Puedes mantener algunos estilos personalizados aquí si lo deseas */
+body {
+    padding-bottom: 60px; /* Para que el contenido no quede detrás del footer */
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
